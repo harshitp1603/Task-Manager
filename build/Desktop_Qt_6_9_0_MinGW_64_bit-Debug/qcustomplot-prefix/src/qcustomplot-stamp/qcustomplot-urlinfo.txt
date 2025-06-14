@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Qt/Tools/CMake_64/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/download-qcustomplot.cmake;COMMAND;C:/Qt/Tools/CMake_64/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/verify-qcustomplot.cmake;COMMAND;C:/Qt/Tools/CMake_64/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/extract-qcustomplot.cmake
+source_dir=C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot/src
+work_dir=C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot
+url(s)=https://www.qcustomplot.com/release/2.1.1/QCustomPlot-source.tar.gz
+hash=
+      no_extract=
+

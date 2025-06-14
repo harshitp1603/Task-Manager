@@ -1,0 +1,13 @@
+# Target labels
+ qcustomplot
+# Source files and their labels
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/qcustomplot
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/qcustomplot.rule
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/qcustomplot-complete.rule
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-build.rule
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-configure.rule
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-download.rule
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-install.rule
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-mkdir.rule
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-patch.rule
+C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-update.rule

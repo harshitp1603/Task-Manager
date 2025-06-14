@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/qcustomplot"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/qcustomplot.rule"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/qcustomplot-complete.rule"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-build.rule"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-configure.rule"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-download.rule"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-install.rule"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-patch.rule"
+		},
+		{
+			"file" : "C:/Users/abhis/OneDrive/Desktop/TaskManager/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qcustomplot-prefix/src/qcustomplot-stamp/qcustomplot-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qcustomplot"
+		],
+		"name" : "qcustomplot"
+	}
+}
