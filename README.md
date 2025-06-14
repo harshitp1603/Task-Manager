@@ -1,6 +1,6 @@
 # Task Manager
 
-A C++ Task Manager application that displays system processes and resource usage information.
+A C++ Task Manager application named Procmanager that displays system processes and resource usage information.
 
 ## Features
 
